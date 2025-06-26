@@ -32,4 +32,4 @@ Latency: 2.68 ms
 [ Platform ]
 Target GPU: AMD MI300X
 Framework: HIP / ROCm
-Precision: FP8 (E4M3 / E5M2)
+Precision: FP8 (E4M3)
