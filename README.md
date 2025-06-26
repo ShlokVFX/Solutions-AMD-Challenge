@@ -1,4 +1,4 @@
-**GPU Kernel Performance Benchmarks**
+# GPU Kernel Performance Benchmarks
 
 Optimized GPU compute kernels for AMD MI300X  
 Focus: FP8 GEMM, MoE Inference, MLA Decode (KV cache + MHA)
