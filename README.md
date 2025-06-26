@@ -38,10 +38,4 @@ Focus: FP8 GEMM, MoE Inference, MLA Decode (KV cache + MHA)
 
 ---
 
-**Platform**
-
-| Field      | Value                                              |
-|------------|----------------------------------------------------|
-| Target GPU | AMD MI300X                                        |
-| Framework  | HIP / ROCm                                        |
-| Precision  | FP8 (E4M3)                                        |
+**Platform:** AMD MI300X — HIP / ROCm — FP8 (E4M3)
